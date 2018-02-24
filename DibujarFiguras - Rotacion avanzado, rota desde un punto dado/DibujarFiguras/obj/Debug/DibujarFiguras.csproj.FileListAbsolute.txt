@@ -1,0 +1,36 @@
+c:\users\claudio ivan\documents\visual studio 2015\Projects\DibujarFiguras\DibujarFiguras\bin\Debug\DibujarFiguras.exe.config
+c:\users\claudio ivan\documents\visual studio 2015\Projects\DibujarFiguras\DibujarFiguras\obj\Debug\DibujarFiguras.csprojResolveAssemblyReference.cache
+c:\users\claudio ivan\documents\visual studio 2015\Projects\DibujarFiguras\DibujarFiguras\obj\Debug\DibujarFiguras.Form1.resources
+c:\users\claudio ivan\documents\visual studio 2015\Projects\DibujarFiguras\DibujarFiguras\obj\Debug\DibujarFiguras.Properties.Resources.resources
+c:\users\claudio ivan\documents\visual studio 2015\Projects\DibujarFiguras\DibujarFiguras\obj\Debug\DibujarFiguras.csproj.GenerateResource.Cache
+c:\users\claudio ivan\documents\visual studio 2015\Projects\DibujarFiguras\DibujarFiguras\bin\Debug\DibujarFiguras.exe
+c:\users\claudio ivan\documents\visual studio 2015\Projects\DibujarFiguras\DibujarFiguras\bin\Debug\DibujarFiguras.pdb
+c:\users\claudio ivan\documents\visual studio 2015\Projects\DibujarFiguras\DibujarFiguras\obj\Debug\DibujarFiguras.exe
+c:\users\claudio ivan\documents\visual studio 2015\Projects\DibujarFiguras\DibujarFiguras\obj\Debug\DibujarFiguras.pdb
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - traslacion\DibujarFiguras\bin\Debug\DibujarFiguras.exe.config
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - traslacion\DibujarFiguras\obj\Debug\DibujarFiguras.exe
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - traslacion\DibujarFiguras\obj\Debug\DibujarFiguras.pdb
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - traslacion\DibujarFiguras\bin\Debug\DibujarFiguras.exe
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - traslacion\DibujarFiguras\bin\Debug\DibujarFiguras.pdb
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - traslacion\DibujarFiguras\obj\Debug\DibujarFiguras.csprojResolveAssemblyReference.cache
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - traslacion\DibujarFiguras\obj\Debug\DibujarFiguras.Form1.resources
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - traslacion\DibujarFiguras\obj\Debug\DibujarFiguras.Properties.Resources.resources
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - traslacion\DibujarFiguras\obj\Debug\DibujarFiguras.csproj.GenerateResource.Cache
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion\DibujarFiguras\bin\Debug\DibujarFiguras.exe.config
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion\DibujarFiguras\obj\Debug\DibujarFiguras.exe
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion\DibujarFiguras\obj\Debug\DibujarFiguras.pdb
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion\DibujarFiguras\bin\Debug\DibujarFiguras.exe
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion\DibujarFiguras\bin\Debug\DibujarFiguras.pdb
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion\DibujarFiguras\obj\Debug\DibujarFiguras.csprojResolveAssemblyReference.cache
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion\DibujarFiguras\obj\Debug\DibujarFiguras.Form1.resources
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion\DibujarFiguras\obj\Debug\DibujarFiguras.Properties.Resources.resources
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion\DibujarFiguras\obj\Debug\DibujarFiguras.csproj.GenerateResource.Cache
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion - examen\DibujarFiguras\bin\Debug\DibujarFiguras.exe.config
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion - examen\DibujarFiguras\obj\Debug\DibujarFiguras.exe
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion - examen\DibujarFiguras\obj\Debug\DibujarFiguras.pdb
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion - examen\DibujarFiguras\bin\Debug\DibujarFiguras.exe
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion - examen\DibujarFiguras\bin\Debug\DibujarFiguras.pdb
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion - examen\DibujarFiguras\obj\Debug\DibujarFiguras.csprojResolveAssemblyReference.cache
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion - examen\DibujarFiguras\obj\Debug\DibujarFiguras.Form1.resources
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion - examen\DibujarFiguras\obj\Debug\DibujarFiguras.Properties.Resources.resources
+C:\Users\Claudio Ivan\Documents\Visual Studio 2015\Projects\DibujarFiguras - Rotacion - examen\DibujarFiguras\obj\Debug\DibujarFiguras.csproj.GenerateResource.Cache
